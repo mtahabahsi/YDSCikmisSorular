@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimary">
+
+
+    <item
+        android:id="@+id/navigation_ev"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"
+        />
+    <item
+        android:id="@+id/navigation_arsiv"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_arsiv" />
+
+    <item
+        android:id="@+id/navigation_gunluk_kelime"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_notifications" />
+
+
+</menu>

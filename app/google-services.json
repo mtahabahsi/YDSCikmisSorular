@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773896481481",
+    "firebase_url": "https://yds-cikmis-sorular-a52fb.firebaseio.com",
+    "project_id": "yds-cikmis-sorular-a52fb",
+    "storage_bucket": "yds-cikmis-sorular-a52fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773896481481:android:094ade89e45aba87",
+        "android_client_info": {
+          "package_name": "com.example.netix.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773896481481-h4oras92c0g858c2efc6mn5q2pb2u3op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netix.myapplication",
+            "certificate_hash": "a392a0b31133149fe0cc9ba95c20a9da60cbeb63"
+          }
+        },
+        {
+          "client_id": "773896481481-f58gv676jon82h9h20o19u60rm4m93mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANKXapIC6hPEkrqscLlmAvGvaQ82Q6NWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773896481481-f58gv676jon82h9h20o19u60rm4m93mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

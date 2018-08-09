@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.netix.myapplication">
+
+    <application>
+        <activity
+            android:name="com.example.netix.myapplication.AnaSayfa"
+            android:label="@string/title_activity_ana_sayfa"></activity>
+    </application>
+</manifest>

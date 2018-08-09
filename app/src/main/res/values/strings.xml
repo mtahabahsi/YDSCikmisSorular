@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">YDS Çıkmış Sorular</string>
+    <string name="button_giris">GİRİŞ YAP</string>
+    <string name="text_giris">E-Mail</string>
+    <string name="edit_giris">example@outlook.com</string>
+    <string name="text_sifre">Şifre</string>
+    <string name="edit_sifre">********</string>
+    <string name="button_kayit">KAYIT OL</string>
+    <string name="kayit_id">Kullanıcı Adı</string>
+    <string name="kayit_email">E-Mail</string>
+    <string name="kayit_sifre">Şifre</string>
+    <string name="kayit_sifreT">Şifre Tekrar</string>
+    <string name="title_activity_ana_sayfa">YDS Çıkmış Sorular</string>
+    <string name="title_home">Ev</string>
+    <string name="title_arsiv">Arşiv</string>
+    <string name="title_notifications">Kelime Ezber</string>
+    <string name="cikis">Çıkış Yap</string>
+    <string name="title_activity_hakkinda">Hakkında</string>
+    <string name="gunluk_kelime">Günlük Kelime</string>
+    <string name="arsiv">Arşiv</string>
+    <string name="ydse">YDS E</string>
+    <string name="button_yds">YDS ÇIKMIŞ SORULAR</string>
+    <string name="arsiv_text_view">Önceki Yıllarda Çıkmış Sorular</string>
+    <string name="gunluk_kelime_button">Teste Başla</string>
+    <string name="delete">Hesabı sil</string>
+    <string name="sifre_yenile"><u>Şifremi Unuttum</u></string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hakkinda_baslik">YDS Çıkmış Sorular</string>
+    <string name="hakkinda_icerik"> &#160; &#160; &#160;  YDS Çıkmış Sorular uygulaması Yabancı Dil Sınavına hazırlanırken size yardım olması
+        için geliştirilmiş bir uygulamadır.Bu uygulama ile önceki yıllarda çıkan sınavları inceleyebilirsiniz.Ayrıca YDS sınavında çıkan
+        kelimelerden en sık kullanılanları ezberlemeniz için bir sınav ortamı hazırladık.Ezberlemeyi daha eğlenceli hale getirmek ve akılda
+        kalıcılığını arttırmak için sınav kısmı görsel efektlerle desteklenmiştir.Sınav kısmında kelime ezberinizi test edebilirsiniz.
+        \n <font color="#d32f2f"><u>Geliştirici Muhammet Taha BAHŞİ.</u></font></string>
+
+</resources>
